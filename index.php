@@ -6,6 +6,6 @@
 	<title>INDEX</title>
 </head>
 <body>
-	
+	<p>Hello semua! Saya sedang belajar GIT</p>
 </body>
 </html>
